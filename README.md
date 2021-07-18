@@ -30,14 +30,10 @@ mvn clean test
 
 Para visualizar a execução do projeto
 
-```
-LOCAL: http://localhost:8080/api/v1/person
-CLOUD: http://localhost:8080/api/v1/person
-```
+* Local: [http://localhost:8080/api/v1/person](http://localhost:8080/api/v1/person)
+* Cloud: [https://person-api-cloud.herokuapp.com/api/v1/person](https://person-api-cloud.herokuapp.com/api/v1/person)
 
 Para acessar a documentação da API
 
-```
-LOCAL: http://localhost:8080/swagger-ui.html
-CLOUD: https://person-api-cloud.herokuapp.com/swagger-ui.html
-```
+* Local: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+* Cloud: [https://person-api-cloud.herokuapp.com/swagger-ui.html](https://person-api-cloud.herokuapp.com/swagger-ui.html)
