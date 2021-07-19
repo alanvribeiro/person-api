@@ -11,6 +11,7 @@ Projeto Spring Boot para validação de uma API Rest de gerenciamento de pessoas
 * Lombok
 * MapStruct
 * JUnit
+* Swagger
 * Heroku
 * IntelliJ IDEA
 
@@ -30,10 +31,10 @@ mvn clean test
 
 Para visualizar a execução do projeto
 
-* Local: [http://localhost:8080/api/v1/person](http://localhost:8080/api/v1/person)
+* Local: http://localhost:8080/api/v1/person
 * Cloud: [https://person-api-cloud.herokuapp.com/api/v1/person](https://person-api-cloud.herokuapp.com/api/v1/person)
 
 Para acessar a documentação da API
 
-* Local: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+* Local: http://localhost:8080/swagger-ui.html
 * Cloud: [https://person-api-cloud.herokuapp.com/swagger-ui.html](https://person-api-cloud.herokuapp.com/swagger-ui.html)
